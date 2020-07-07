@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Yo Ho Ho.
+            I am digging Azure A LOT!
         </div>
     </form>
 </body>
