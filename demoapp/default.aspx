@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is another silly fricken sample application.
+            Yo Ho Ho.
         </div>
     </form>
 </body>
